@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "..\\07. Shopping-Cart"
+		},
+		{
+			"path": "..\\05. Encode-and-Decode-Messages"
+		},
+		{
+			"path": "..\\06. Furniture"
+		},
+		{
+			"path": "..\\07. Distance-Converter"
+		},
+		{
+			"path": "..\\08. Sudomu"
+		},
+		{
+			"path": "..\\09. JavaScript-Quiz"
+		},
+		{
+			"path": "..\\01. Sections"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\03. Locked-Profile"
+		},
+		{
+			"path": "..\\04. Fill-Dropdown"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02. Time-Converter"
+	}
+}
